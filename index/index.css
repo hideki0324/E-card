@@ -1,0 +1,56 @@
+body {
+    height:100%;
+    width:100%;
+    margin:0;
+}
+
+#bg {
+    position:fixed;
+    left:0px;
+    top:0px;
+    width:100vw;
+    height:100vh;
+    z-index:-1;
+    background-size:cover;
+    background-position:bottom;
+}
+
+.mousepointer-hand {
+    cursor: pointer;
+}
+
+#message {
+    background-color:indianred;
+    width:650px;
+    height:200px;
+    top:50px;
+    left:-660px;
+    position: fixed;
+}
+
+#message p {
+    font-size: 35pt; 
+    background-color: #fff;
+    padding: 10px;
+    margin: 
+}
+
+#open {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:95px;
+}
+
+#close {
+    position:absolute;
+    left:595px;
+    top:210px;
+    width:50px;
+}
+
+#button {
+    background-color: beige; 
+} 
+
+
