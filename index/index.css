@@ -4,19 +4,42 @@ body {
     margin:0;
 }
 
-#bg {
-    position:fixed;
-    left:0px;
-    top:0px;
-    width:100vw;
-    height:100vh;
-    z-index:-1;
-    background-size:cover;
-    background-position:bottom;
+#b_tree_1:forcus {
+    cursor: pointer;
+}
+#b_tree_2:forcus {
+    cursor: pointer;
+}
+#clouds:forcus {
+   cursor: pointer; 
 }
 
-.mousepointer-hand {
-    cursor: pointer;
+#tree_c:forcus {
+   cursor: pointer; 
+}
+
+#tree_b:forcus {
+   cursor: pointer; 
+}
+
+#tree_a:forcus {
+   cursor: pointer; 
+}
+
+#turkey1:forcus {
+   cursor: pointer; 
+}
+
+#turkey2:forcus {
+   cursor: pointer; 
+}
+
+#foods:forcus {
+   cursor: pointer; 
+}
+
+#foods_b:forcus {
+   cursor: pointer; 
 }
 
 #message {
@@ -49,8 +72,54 @@ body {
     width:50px;
 }
 
-#button {
+button {
     background-color: beige; 
 } 
+
+#fact1_1_,#fact2_1_,#fact3_1_,#fact4_1_,#fact5_1_,#fact6_1_,#fact7_1_,#fact8_1_,#fact9_1_,#fact10_1_ {
+    display: none;
+}
+
+#facts_b {
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px;
+    width: 6vw;
+    height: 22vh;
+    background-color: darkgreen; 
+}
+
+.facts {
+    margin-top: 2px;
+    margin-top: 2px;
+}
+
+#turkey1_1_{
+  transition: 1s;
+  -webkit-transition: 1s;
+}
+
+#turkey1_1_:hover{
+  transform: translateY(-300px);
+}
+
+.buruburu-hover:hover {
+    display: inline-block;
+    animation: hurueru .1s  infinite;
+}
+
+@keyframes hurueru {
+    0% {transform: translate(0px, 0px) rotateZ(0deg)}
+    25% {transform: translate(2px, 2px) rotateZ(1deg)}
+    50% {transform: translate(0px, 2px) rotateZ(0deg)}
+    75% {transform: translate(2px, 0px) rotateZ(-1deg)}
+    100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+
+
+
 
 
