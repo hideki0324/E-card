@@ -1,0 +1,88 @@
+body {
+    height:100%;
+    width:100%;
+    margin:0;
+}
+
+#b_tree_1:forcus {
+    cursor: pointer;
+}
+#b_tree_2:forcus {
+    cursor: pointer;
+}
+#clouds:forcus {
+   cursor: pointer; 
+}
+
+#tree_c:forcus {
+   cursor: pointer; 
+}
+
+#tree_b:forcus {
+   cursor: pointer; 
+}
+
+#tree_a:forcus {
+   cursor: pointer; 
+}
+
+#turkey1:forcus {
+   cursor: pointer; 
+}
+
+#turkey2:forcus {
+   cursor: pointer; 
+}
+
+#foods:forcus {
+   cursor: pointer; 
+}
+
+#foods_b:forcus {
+   cursor: pointer; 
+}
+
+#message {
+    background-color:indianred;
+    width:650px;
+    height:200px;
+    top:50px;
+    left:-660px;
+    position: fixed;
+}
+
+#message p {
+    font-size: 35pt; 
+    background-color: #fff;
+    padding: 10px;
+    margin: 
+}
+
+#open {
+    position:absolute;
+    left:0px;
+    top:20px;
+    width:95px;
+}
+
+#close {
+    position:absolute;
+    left:595px;
+    top:210px;
+    width:50px;
+}
+
+#button {
+    background-color: beige; 
+} 
+
+#fact1_1_,#fact2_1_,#fact3_1_,#fact4_1_,#fact5_1_,#fact6_1_,#fact7_1_,#fact8_1_,#fact9_1_,#fact10_1_ {
+    display: none;
+}
+
+
+
+
+
+
+
