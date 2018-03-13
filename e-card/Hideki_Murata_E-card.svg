@@ -66,25 +66,32 @@
 	.st60{fill:#FCD17A;}
 	.st61{fill:#F40F31;stroke:#E23D6C;stroke-width:3;stroke-miterlimit:10;}
 	.st62{fill:#27DCE0;}
-	.st63{fill:#F2F0F0;}
-	.st64{fill:none;stroke:#CCCACA;stroke-miterlimit:10;}
-	.st65{fill:#E27524;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st66{fill:#E27524;stroke:#FCFCFC;stroke-width:3;stroke-miterlimit:10;}
-	.st67{fill:#F90819;stroke:#FCFCFC;stroke-width:3;stroke-miterlimit:10;}
-	.st68{fill:url(#SVGID_1_);}
-	.st69{fill:#9A5B2B;}
-	.st70{fill:#841016;stroke:#9A5B2B;stroke-width:3;stroke-miterlimit:10;}
-	.st71{fill:#D19F22;stroke:#9A5B2B;stroke-width:3;stroke-miterlimit:10;}
-	.st72{fill:#FF0206;stroke:#9A5B2B;stroke-width:3;stroke-miterlimit:10;}
-	.st73{opacity:0.4;fill:#E6E600;}
-	.st74{opacity:0.8;fill:#EAEAE8;}
-	.st75{font-family:'MyriadPro-Regular';}
-	.st76{font-size:35px;}
-	.st77{letter-spacing:3;}
-	.st78{font-size:29px;}
-	.st79{letter-spacing:8;}
-	.st80{font-size:30px;}
-	.st81{letter-spacing:21;}
+	.st63{fill:url(#SVGID_1_);stroke:#595959;stroke-miterlimit:10;}
+	.st64{fill:#D69F63;stroke:#6D533D;stroke-miterlimit:10;}
+	.st65{fill:#EA2856;}
+	.st66{fill:#AAAAAA;stroke:url(#SVGID_2_);stroke-miterlimit:10;}
+	.st67{fill:#F5F7F6;stroke:#070707;stroke-miterlimit:10;}
+	.st68{fill:#AA750B;stroke:#F9AE28;stroke-miterlimit:10;}
+	.st69{fill:#2AE860;}
+	.st70{fill:#F2F0F0;}
+	.st71{fill:none;stroke:#CCCACA;stroke-miterlimit:10;}
+	.st72{fill:#E27524;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st73{fill:#E27524;stroke:#FCFCFC;stroke-width:3;stroke-miterlimit:10;}
+	.st74{fill:#F90819;stroke:#FCFCFC;stroke-width:3;stroke-miterlimit:10;}
+	.st75{fill:url(#SVGID_3_);}
+	.st76{fill:#9A5B2B;}
+	.st77{fill:#841016;stroke:#9A5B2B;stroke-width:3;stroke-miterlimit:10;}
+	.st78{fill:#D19F22;stroke:#9A5B2B;stroke-width:3;stroke-miterlimit:10;}
+	.st79{fill:#FF0206;stroke:#9A5B2B;stroke-width:3;stroke-miterlimit:10;}
+	.st80{opacity:0.4;fill:#E6E600;}
+	.st81{opacity:0.8;fill:#EAEAE8;}
+	.st82{font-family:'MyriadPro-Regular';}
+	.st83{font-size:35px;}
+	.st84{letter-spacing:3;}
+	.st85{font-size:29px;}
+	.st86{letter-spacing:8;}
+	.st87{font-size:30px;}
+	.st88{letter-spacing:21;}
 </style>
 <g id="background">
 	<linearGradient id="sky_1_" gradientUnits="userSpaceOnUse" x1="629.3515" y1="353.4194" x2="607.3515" y2="9.4194">
@@ -111,14 +118,14 @@
 		s-31,2,15,4s60,34,96,24s91-32,124-18s28,14,50,14s99,20,120,37s54,28,75,20s115,61,115,61v498H-1.5L-1,331z"/>
 </g>
 <g id="ground">
-	<linearGradient id="ground_2_" gradientUnits="userSpaceOnUse" x1="641.2194" y1="861.0029" x2="639.7194" y2="1007.9955">
+	<linearGradient id="ground_2_" gradientUnits="userSpaceOnUse" x1="641.2194" y1="865.0029" x2="639.7194" y2="1011.9955">
 		<stop  offset="0" style="stop-color:#B35900"/>
 		<stop  offset="0.4388" style="stop-color:#804000"/>
 		<stop  offset="0.6565" style="stop-color:#663300"/>
 		<stop  offset="0.8457" style="stop-color:#4D2600"/>
 		<stop  offset="1" style="stop-color:#331A00"/>
 	</linearGradient>
-	<polygon id="ground_1_" class="st2" points="1284,916 1280,916 1280,835 -3,835 -3,976 -3,1030 1280,1030 1280,1028 1284,1028 	"/>
+	<polygon id="ground_1_" class="st2" points="1284,920 1280,920 1280,839 -3,839 -3,980 -3,1034 1280,1034 1280,1032 1284,1032 	"/>
 </g>
 <g id="b_x5F_tree_x5F_1">
 	<g id="b_x5F_tree_1_">
@@ -6088,6 +6095,74 @@
 			/>
 	</g>
 </g>
+<g id="chiken">
+	<g id="chiken_x5F_2">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="863.3" y1="857.1625" x2="1088.7" y2="857.1625">
+			<stop  offset="0" style="stop-color:#666666"/>
+			<stop  offset="7.952009e-02" style="stop-color:#F2F2F2"/>
+			<stop  offset="0.3215" style="stop-color:#E6E6E6"/>
+			<stop  offset="0.5086" style="stop-color:#D8D8D8"/>
+			<stop  offset="0.6302" style="stop-color:#CCCCCC"/>
+			<stop  offset="0.734" style="stop-color:#B3B3B3"/>
+			<stop  offset="0.7926" style="stop-color:#999999"/>
+			<stop  offset="0.8598" style="stop-color:#808080"/>
+			<stop  offset="0.9389" style="stop-color:#737373"/>
+		</linearGradient>
+		<ellipse class="st63" cx="976" cy="857.2" rx="112.7" ry="24.5"/>
+		<path class="st64" d="M918.4,794.7c12.2,7.3,22,14.7,34.3,29.4c12.2,14.7,27,14.7,36.8,9.8c9.8-4.9,19.6-24.5,4.9-34.3
+			c-14.7-9.8-21.2-5.7-37.6-7.8c-16.3-2-35.9-2-40.8-14.3c-4.9-12.2-17.1-12.2-14.7-4.9c2.4,7.3,4.6,9.2,0,12.2
+			c-7.4,4.9-4.9,9.8,2.4,7.3C913,789.1,918.4,794.7,918.4,794.7z"/>
+		<path class="st64" d="M902.5,842.5c17.2-24.5,36.8-56.4,58.8-63.7c22-7.4,36.8-2.5,61.2,17.1c24.5,19.6,34.3,46.6,29.4,53.9
+			c-4.9,7.3-98,14.7-137.2,4.9C892.7,852.3,902.5,842.5,902.5,842.5z"/>
+		<path class="st64" d="M886.6,814.3c12.2,7.4,22,14.7,34.3,29.4s27,14.7,36.8,9.8c9.8-4.9,19.6-24.5,4.9-34.3
+			c-14.7-9.8-21.2-5.7-37.6-7.8c-16.3-2-35.9-2-40.8-14.3s-17.2-12.2-14.7-4.9c2.5,7.4,4.9,9.8,0,12.2c-4.9,2.5-7.3,9.8,2.5,7.4
+			C881.7,811.8,886.6,814.3,886.6,814.3z"/>
+		<circle class="st65" cx="896.4" cy="853.5" r="13.5"/>
+		<circle class="st65" cx="936.2" cy="863.3" r="13.5"/>
+		<circle class="st65" cx="976" cy="865.7" r="13.5"/>
+		<circle class="st65" cx="1015.8" cy="863.3" r="13.5"/>
+		<circle class="st65" cx="1055.6" cy="853.5" r="13.5"/>
+	</g>
+	<g id="chiken_x5F__x21_">
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="862.8" y1="857.1625" x2="1089.2" y2="857.1625">
+			<stop  offset="0" style="stop-color:#666666"/>
+			<stop  offset="7.952009e-02" style="stop-color:#F2F2F2"/>
+			<stop  offset="0.3215" style="stop-color:#E6E6E6"/>
+			<stop  offset="0.5086" style="stop-color:#D8D8D8"/>
+			<stop  offset="0.6302" style="stop-color:#CCCCCC"/>
+			<stop  offset="0.734" style="stop-color:#B3B3B3"/>
+			<stop  offset="0.7926" style="stop-color:#999999"/>
+			<stop  offset="0.8598" style="stop-color:#808080"/>
+			<stop  offset="0.9389" style="stop-color:#737373"/>
+		</linearGradient>
+		<ellipse class="st66" cx="976" cy="857.2" rx="112.7" ry="24.5"/>
+		<path class="st67" d="M951.1,733c3.8,3.9,3.1,1.6,6.9,13.2s-8.6,13.1,0.6,25.6c9.2,12.5,15.4,7.9,14.6,21l4.7-1.5
+			c0.9-13.2-5.4-8.6-14.6-21c-9.2-12.5,3.2-13.9-0.6-25.6s-3-9.3-6.9-13.2L951.1,733z"/>
+		<path class="st67" d="M934.7,763.8c3.4,4.3,2.9,1.9,5.5,13.9c2.5,12-9.9,12.1-2.1,25.5c7.8,13.4,14.5,9.4,12.3,22.4l4.8-1
+			c2.2-13-4.4-9.1-12.3-22.4c-7.8-13.4,4.6-13.5,2.1-25.5s-2-9.6-5.5-13.9L934.7,763.8z"/>
+		<path class="st67" d="M927.7,777.5c2.3,5,2.4,2.5,1.9,14.8c-0.4,12.2-12.6,9.4-8.2,24.2c4.4,14.9,11.8,12.7,6.5,24.7l4.9,0.2
+			c5.3-12.1-2.1-9.9-6.5-24.7c-4.4-14.9,7.8-12,8.2-24.2c0.4-12.2,0.3-9.8-1.9-14.8L927.7,777.5z"/>
+		<path class="st67" d="M985.8,777.5c-2.5-4.9-2.5-2.4-2.5-14.7s12.2-9.8,7.4-24.5c-4.9-14.7-12.2-12.2-7.4-24.5h-4.9
+			c-4.9,12.2,2.5,9.8,7.3,24.5c4.9,14.7-7.3,12.2-7.3,24.5s0,9.8,2.5,14.7H985.8z"/>
+		<path class="st67" d="M1014.3,727.1c0.9,5.4,1.6,3.1-2,14.8s-14.6,5.8-14.2,21.3s8.1,15.3-0.1,25.6l4.7,1.4
+			c8.3-10.3,0.5-10.1,0.1-25.6c-0.4-15.5,10.6-9.6,14.2-21.3c3.6-11.7,2.9-9.4,2-14.8L1014.3,727.1z"/>
+		<path class="st67" d="M1032.3,841.2c-2.4-4.9-2.4-2.5-2.4-14.7s12.2-9.8,7.3-24.5c-4.9-14.7-12.2-12.2-7.3-24.5h-4.9
+			c-4.9,12.2,2.4,9.8,7.3,24.5c4.9,14.7-7.3,12.2-7.3,24.5s0,9.8,2.4,14.7H1032.3z"/>
+		<path class="st68" d="M918.4,794.7c12.2,7.3,22,14.7,34.3,29.4c12.2,14.7,27,14.7,36.8,9.8c9.8-4.9,19.6-24.5,4.9-34.3
+			c-14.7-9.8-21.2-5.7-37.6-7.8c-16.3-2-35.9-2-40.8-14.3c-4.9-12.2-17.1-12.2-14.7-4.9c2.4,7.3,4.6,9.2,0,12.2
+			c-7.4,4.9-4.9,9.8,2.4,7.3C913,789.1,918.4,794.7,918.4,794.7z"/>
+		<path class="st68" d="M902.5,842.5c17.2-24.5,36.8-56.4,58.8-63.7c22-7.4,36.8-2.5,61.2,17.1c24.5,19.6,34.3,46.6,29.4,53.9
+			c-4.9,7.3-98,14.7-137.2,4.9C892.7,852.3,902.5,842.5,902.5,842.5z"/>
+		<path class="st68" d="M886.6,814.3c12.2,7.4,22,14.7,34.3,29.4s27,14.7,36.8,9.8c9.8-4.9,19.6-24.5,4.9-34.3
+			c-14.7-9.8-21.2-5.7-37.6-7.8c-16.3-2-35.9-2-40.8-14.3s-17.2-12.2-14.7-4.9c2.5,7.4,4.9,9.8,0,12.2c-4.9,2.5-7.3,9.8,2.5,7.4
+			C881.7,811.8,886.6,814.3,886.6,814.3z"/>
+		<circle class="st69" cx="896.4" cy="848.6" r="13.5"/>
+		<circle class="st69" cx="936.2" cy="863.3" r="13.5"/>
+		<circle class="st69" cx="978.5" cy="865.7" r="13.5"/>
+		<circle class="st69" cx="1015.8" cy="863.3" r="13.5"/>
+		<circle class="st69" cx="1055.6" cy="851" r="13.5"/>
+	</g>
+</g>
 <g id="foods_x5F_b">
 	<g>
 		<g>
@@ -6386,32 +6461,32 @@
 				<rect x="1171" y="897" class="st39" width="38" height="93"/>
 			</g>
 			<g id="cheken">
-				<ellipse class="st63" cx="974" cy="848" rx="111.5" ry="30.7"/>
-				<ellipse class="st64" cx="974" cy="848" rx="108.5" ry="27.7"/>
+				<ellipse class="st70" cx="974" cy="848" rx="111.5" ry="30.7"/>
+				<ellipse class="st71" cx="974" cy="848" rx="108.5" ry="27.7"/>
 				<g>
-					<path class="st65" d="M913,779c3.1,12.3,24,14,44,16s29,2,31,11s2,20-6,27s-33,2-40-13s-10-12-18-17s-7-9-12-8s-12,1-11-5
+					<path class="st72" d="M913,779c3.1,12.3,24,14,44,16s29,2,31,11s2,20-6,27s-33,2-40-13s-10-12-18-17s-7-9-12-8s-12,1-11-5
 						s-0.8-6.5,2-13C904.5,773.5,911,771,913,779z"/>
-					<path class="st66" d="M906,836c11.5-15.7,29-49,48-56s34-10,66,18s28,53,28,53l-32,6c0,0-62,1-87-2S895,851,906,836z"/>
-					<path class="st65" d="M883,799c3.1,12.3,24,14,44,16s29,2,31,11s2,20-6,27s-33,2-40-13s-10-12-18-17s-7-9-12-8s-12,1-11-5
+					<path class="st73" d="M906,836c11.5-15.7,29-49,48-56s34-10,66,18s28,53,28,53l-32,6c0,0-62,1-87-2S895,851,906,836z"/>
+					<path class="st72" d="M883,799c3.1,12.3,24,14,44,16s29,2,31,11s2,20-6,27s-33,2-40-13s-10-12-18-17s-7-9-12-8s-12,1-11-5
 						s2.5-5.9,2-13C872.5,790.5,881,791,883,799z"/>
-					<path class="st66" d="M1003.5,804.5c10.9,8.2,26,20,24,27s-5,19-8,23s-4,13-13,12s-16-9-9-20s13-6,7-20
+					<path class="st73" d="M1003.5,804.5c10.9,8.2,26,20,24,27s-5,19-8,23s-4,13-13,12s-16-9-9-20s13-6,7-20
 						S995.5,798.5,1003.5,804.5z"/>
 				</g>
-				<circle class="st67" cx="888.5" cy="850.5" r="12"/>
-				<circle class="st67" cx="931.2" cy="857.5" r="12"/>
-				<circle class="st67" cx="974" cy="859.5" r="12"/>
-				<circle class="st67" cx="1016.8" cy="857.5" r="12"/>
-				<circle class="st67" cx="1059.5" cy="847.5" r="12"/>
+				<circle class="st74" cx="888.5" cy="850.5" r="12"/>
+				<circle class="st74" cx="931.2" cy="857.5" r="12"/>
+				<circle class="st74" cx="974" cy="859.5" r="12"/>
+				<circle class="st74" cx="1016.8" cy="857.5" r="12"/>
+				<circle class="st74" cx="1059.5" cy="847.5" r="12"/>
 			</g>
 			<ellipse id="shadow_1_" class="st40" cx="972.5" cy="816.5" rx="213.5" ry="65.5"/>
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="983.0592" y1="929.0657" x2="1017.0592" y2="655.0657">
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="983.0592" y1="929.0657" x2="1017.0592" y2="655.0657">
 				<stop  offset="0" style="stop-color:#0000FF"/>
 				<stop  offset="0.4388" style="stop-color:#1A1AFF"/>
 				<stop  offset="0.6565" style="stop-color:#3333FF"/>
 				<stop  offset="0.8457" style="stop-color:#4D4DFF"/>
 				<stop  offset="1" style="stop-color:#6666FF"/>
 			</linearGradient>
-			<path class="st68" d="M718,928c0,0,74,14,85,4s31-14,47-10s35,19,49,15s69-19,123-21l53.5-2.5c47,4-4-1,53,5s8-1,57,6
+			<path class="st75" d="M718,928c0,0,74,14,85,4s31-14,47-10s35,19,49,15s69-19,123-21l53.5-2.5c47,4-4-1,53,5s8-1,57,6
 				s63,31,59,11s-1,7,0-28s16,19,1-35s-6,18-15-54s-35-97-57-118s-64-29-80-39s4,13-16-10s-4-29-30-22s26,5-36,4s-116-20-128-2
 				s-5,8-39,24s-35,5-53,15s-30,38-52,148S718,928,718,928z"/>
 		</g>
@@ -6421,105 +6496,105 @@
 	<g>
 		<g>
 			<g>
-				<path class="st69" d="M188.8,193.3c0,0-25.5,37.7-72.3,97.1c-18.5,23.5-33,38.2-43.8,47.4c19.6-3.9,34.2-6.9,36.9-7.7
+				<path class="st76" d="M188.8,193.3c0,0-25.5,37.7-72.3,97.1c-18.5,23.5-33,38.2-43.8,47.4c19.6-3.9,34.2-6.9,36.9-7.7
 					c9.3-2.5-32.3,21-32.3,21s-52,5.4-131.5,17c-55.2,8-81.6,1.4-92.6-3.5c-4.9-2.1-6.7-3.9-6.7-3.9s-18.9-16.7,8.7-2.9
 					c27.6,13.8,60.6,8.1,79.6,5.9c12.6-1.5,81.2-14.7,128.7-24.1c19-12.6,34.2-32.4,43.9-44.2c11.4-13.9,94.3-127.3,99.2-134.8
 					C211.6,153,188.8,193.3,188.8,193.3z"/>
-				<path class="st69" d="M114.8,243.3c-6.5,18.6-14,54.8-15.9,60.5c-1.9,5.7-7.1,9.5-7.1,9.5s18.3-74.9,23-81.6
+				<path class="st76" d="M114.8,243.3c-6.5,18.6-14,54.8-15.9,60.5c-1.9,5.7-7.1,9.5-7.1,9.5s18.3-74.9,23-81.6
 					C119.4,225,121.3,224.7,114.8,243.3z"/>
 			</g>
-			<path class="st70" d="M-31.3,364.8c0,0,18,5,29.8,11.3c12,6.4,27.6,13,19.7,19.3c-7.9,6.3-27.8,11-35.9,3.6
+			<path class="st77" d="M-31.3,364.8c0,0,18,5,29.8,11.3c12,6.4,27.6,13,19.7,19.3c-7.9,6.3-27.8,11-35.9,3.6
 				c-8-7.4-20.3-22.7-18.8-28.9c1.5-6.2,1.5-6.2,1.5-6.2L-31.3,364.8z"/>
-			<path class="st70" d="M83,348.6c0,0,21.8,6.1,36.2,13.7c14.6,7.7,33.5,15.8,24,23.4c-9.6,7.6-33.8,13.3-43.5,4.4
+			<path class="st77" d="M83,348.6c0,0,21.8,6.1,36.2,13.7c14.6,7.7,33.5,15.8,24,23.4c-9.6,7.6-33.8,13.3-43.5,4.4
 				c-9.8-8.9-24.6-27.5-22.8-35s1.8-7.5,1.8-7.5L83,348.6z"/>
-			<path class="st70" d="M114.1,245.8c0,0,7.7-5.6,14.2-8.6c6.5-3,14.3-7.3,14.7-3c0.4,4.4-3.5,12.9-9.3,14.2
+			<path class="st77" d="M114.1,245.8c0,0,7.7-5.6,14.2-8.6c6.5-3,14.3-7.3,14.7-3c0.4,4.4-3.5,12.9-9.3,14.2
 				c-5.8,1.3-16.4,2.4-18.7,0.4c-2.3-2-2.3-2-2.3-2L114.1,245.8z"/>
-			<path class="st71" d="M161.8,237.5c0,0,19.7,5.5,32.7,12.4c13.2,7,30.3,14.3,21.6,21.2s-30.5,12-39.3,3.9
+			<path class="st78" d="M161.8,237.5c0,0,19.7,5.5,32.7,12.4c13.2,7,30.3,14.3,21.6,21.2s-30.5,12-39.3,3.9
 				c-8.8-8.1-22.2-24.8-20.6-31.6c1.6-6.8,1.6-6.8,1.6-6.8L161.8,237.5z"/>
-			<path class="st71" d="M17.4,347c0,0,14.3-10,22.9-19.2c8.7-9.4,20.4-20.1,11.5-23.2c-8.9-3.1-28-1.1-32.8,7.9S8,338.8,11.2,343.9
+			<path class="st78" d="M17.4,347c0,0,14.3-10,22.9-19.2c8.7-9.4,20.4-20.1,11.5-23.2c-8.9-3.1-28-1.1-32.8,7.9S8,338.8,11.2,343.9
 				s3.2,5,3.2,5L17.4,347z"/>
-			<path class="st72" d="M191,199.8c0,0,16.9-4.5,29.4-5.1c12.7-0.6,28.5-2.7,25.1,6.2c-3.3,8.8-17.2,22.1-27.2,20
+			<path class="st79" d="M191,199.8c0,0,16.9-4.5,29.4-5.1c12.7-0.6,28.5-2.7,25.1,6.2c-3.3,8.8-17.2,22.1-27.2,20
 				s-27.1-8.6-28.9-14.3c-1.8-5.7-1.8-5.7-1.8-5.7L191,199.8z"/>
-			<path class="st72" d="M69.1,242.3c0,0,13,7.8,20.8,15.3c8,7.6,18.7,16.2,11.2,19.4c-7.5,3.2-24.1,2.5-28.8-5s-10.9-22.1-8.3-26.7
+			<path class="st79" d="M69.1,242.3c0,0,13,7.8,20.8,15.3c8,7.6,18.7,16.2,11.2,19.4c-7.5,3.2-24.1,2.5-28.8-5s-10.9-22.1-8.3-26.7
 				c2.5-4.5,2.5-4.5,2.5-4.5L69.1,242.3z"/>
-			<path class="st72" d="M-64.2,364.7c0,0,16.9-11,27.1-21.3c10.4-10.5,24.3-22.4,14.1-26.4s-32.3-2.3-38.2,8
+			<path class="st79" d="M-64.2,364.7c0,0,16.9-11,27.1-21.3c10.4-10.5,24.3-22.4,14.1-26.4s-32.3-2.3-38.2,8
 				c-5.9,10.2-13.5,30-10,35.9s3.6,5.9,3.6,5.9L-64.2,364.7z"/>
 		</g>
 		<g>
 			<g>
-				<path class="st69" d="M540.1,66c0,0-49-2.9-124.3-9.5c-29.8-2.6-50.4-2.1-64.5-0.6c16.3-11.6,28.4-20.1,30.9-21.6
+				<path class="st76" d="M540.1,66c0,0-49-2.9-124.3-9.5c-29.8-2.6-50.4-2.1-64.5-0.6c16.3-11.6,28.4-20.1,30.9-21.6
 					c8.2-5-37.5,9.2-37.5,9.2s-39.6,34.1-102.5,84.2c-43.7,34.7-56.9,58.5-60.9,69.8c-1.8,5-1.7,7.6-1.7,7.6c0-0.5,5.8,3.4,8.1-4.3
 					c6.2-20.5,46.3-58.7,50.3-62c9.7-8.2,66.3-49.1,105.7-77.3c22.2-5.3,47.1-2.7,62.3-1.7c18,1.2,157.3,18.5,166.2,20
 					C581.1,81.4,540.1,66,540.1,66z"/>
-				<path class="st69" d="M448.9,90c-18-8-49.5-27.3-55-29.8s-11.8-1.3-11.8-1.3s67.2,38,75.2,39.1C465.4,99.2,467,98,448.9,90z"/>
+				<path class="st76" d="M448.9,90c-18-8-49.5-27.3-55-29.8s-11.8-1.3-11.8-1.3s67.2,38,75.2,39.1C465.4,99.2,467,98,448.9,90z"/>
 			</g>
-			<path class="st70" d="M260.4,113.2c0,0,8.7-16.5,12.2-29.4c3.6-13.1,9.4-29-0.6-27.6c-10,1.4-27,12.8-27.2,23.7
+			<path class="st77" d="M260.4,113.2c0,0,8.7-16.5,12.2-29.4c3.6-13.1,9.4-29-0.6-27.6c-10,1.4-27,12.8-27.2,23.7
 				c-0.1,10.9,2.6,30.3,8.2,33.4c5.5,3.2,5.5,3.2,5.5,3.2L260.4,113.2z"/>
-			<path class="st70" d="M350.5,41.1c0,0,10.5-20.1,14.8-35.7c4.4-15.9,11.4-35.2-0.7-33.5c-12.1,1.7-32.8,15.5-33,28.7
+			<path class="st77" d="M350.5,41.1c0,0,10.5-20.1,14.8-35.7c4.4-15.9,11.4-35.2-0.7-33.5c-12.1,1.7-32.8,15.5-33,28.7
 				s3.2,36.8,9.9,40.6s6.7,3.8,6.7,3.8L350.5,41.1z"/>
-			<path class="st70" d="M446.6,88.8c0,0,9.4-1.8,15.9-4.5c6.7-2.7,15.1-5.4,12.2-8.7c-2.9-3.3-11.8-6.3-16.7-3S445.1,83,445,86
+			<path class="st77" d="M446.6,88.8c0,0,9.4-1.8,15.9-4.5c6.7-2.7,15.1-5.4,12.2-8.7c-2.9-3.3-11.8-6.3-16.7-3S445.1,83,445,86
 				c-0.2,3.1-0.2,3.1-0.2,3.1L446.6,88.8z"/>
-			<path class="st71" d="M485.3,59.7c0,0,9.5-18.1,13.4-32.3c3.9-14.4,10.3-31.8-0.6-30.3c-10.9,1.6-29.6,14-29.8,25.9
+			<path class="st78" d="M485.3,59.7c0,0,9.5-18.1,13.4-32.3c3.9-14.4,10.3-31.8-0.6-30.3c-10.9,1.6-29.6,14-29.8,25.9
 				s2.9,33.2,9,36.7c6.1,3.5,6.1,3.5,6.1,3.5L485.3,59.7z"/>
-			<path class="st71" d="M306.7,90c0,0,17.1-3.6,29.6-3.5c12.8,0.1,28.6-1.1,24.8,7.5c-3.8,8.6-18.4,21.1-28.3,18.5
+			<path class="st78" d="M306.7,90c0,0,17.1-3.6,29.6-3.5c12.8,0.1,28.6-1.1,24.8,7.5c-3.8,8.6-18.4,21.1-28.3,18.5
 				c-9.9-2.6-26.6-10.1-28.1-15.9s-1.4-5.8-1.4-5.8L306.7,90z"/>
-			<path class="st72" d="M532.9,64.3c0,0,14.9-9.2,23.9-17.9c9.2-8.9,21.5-18.9,12.7-22.5s-27.9-2.6-33.2,6.1
+			<path class="st79" d="M532.9,64.3c0,0,14.9-9.2,23.9-17.9c9.2-8.9,21.5-18.9,12.7-22.5s-27.9-2.6-33.2,6.1
 				c-5.3,8.7-12.3,25.7-9.4,30.9s3,5.2,3,5.2L532.9,64.3z"/>
-			<path class="st72" d="M418.4,124c0,0,3.2-14.8,3.1-25.7c-0.1-11,1-24.8-6.5-21.5s-18.3,15.9-16.1,24.4s8.7,23.1,13.7,24.3
+			<path class="st79" d="M418.4,124c0,0,3.2-14.8,3.1-25.7c-0.1-11,1-24.8-6.5-21.5s-18.3,15.9-16.1,24.4s8.7,23.1,13.7,24.3
 				c5,1.3,5,1.3,5,1.3L418.4,124z"/>
-			<path class="st72" d="M237.9,137.3c0,0,19.6-4.8,34.1-5.1c14.7-0.4,33-2.3,28.9,7.8c-4.1,10.1-20.5,25.1-32,22.4
+			<path class="st79" d="M237.9,137.3c0,0,19.6-4.8,34.1-5.1c14.7-0.4,33-2.3,28.9,7.8c-4.1,10.1-20.5,25.1-32,22.4
 				c-11.5-2.7-31.1-10.7-33-17.3c-1.9-6.7-1.9-6.7-1.9-6.7L237.9,137.3z"/>
 		</g>
 		<g>
 			<g>
-				<path class="st69" d="M974.8,116.9c0,0-32.3-25-96.2-65.4c-25.3-16-43.9-25-57.1-30.1c19.8-2.8,34.5-4.9,37.3-5.1
+				<path class="st76" d="M974.8,116.9c0,0-32.3-25-96.2-65.4c-25.3-16-43.9-25-57.1-30.1c19.8-2.8,34.5-4.9,37.3-5.1
 					c9.6-0.7-37.5-9-37.5-9s-50.8,12.2-129.7,27.8C637,46,568.4,52.5,559.7,60.7c-3.9,3.6-5,5.9-5,5.9s-12.2,22,9.2-0.1
 					c21.4-22.2,80.7-6.9,119-23.5c11.6-5,81.4-13.3,129.4-20.2c22.1,5.5,43.1,19.1,56.2,27.1c15.4,9.3,119.4,88.5,126.5,94
 					C1002.1,149.3,974.8,116.9,974.8,116.9z"/>
-				<path class="st69" d="M892.7,96.5c-12.4-15.3-31.5-47-35.2-51.7c-3.7-4.7-9.9-6.5-9.9-6.5s42.3,64.5,48.9,69.2
+				<path class="st76" d="M892.7,96.5c-12.4-15.3-31.5-47-35.2-51.7c-3.7-4.7-9.9-6.5-9.9-6.5s42.3,64.5,48.9,69.2
 					S905.1,111.8,892.7,96.5z"/>
 			</g>
-			<path class="st70" d="M714.5,30.6c0,0,15.3-10.7,24.3-20.6c9.2-10,21.7-21.5,12.2-24.8c-9.5-3.3-29.9-1-35,8.6
+			<path class="st77" d="M714.5,30.6c0,0,15.3-10.7,24.3-20.6c9.2-10,21.7-21.5,12.2-24.8c-9.5-3.3-29.9-1-35,8.6
 				c-5.1,9.6-11.5,28.1-8.1,33.5c3.5,5.4,3.5,5.4,3.5,5.4L714.5,30.6z"/>
-			<path class="st70" d="M827.7,7.8c0,0,18.5-13,29.5-25c11.2-12.2,26.3-26.1,14.8-30.1c-11.6-4-36.3-1.3-42.5,10.4
+			<path class="st77" d="M827.7,7.8c0,0,18.5-13,29.5-25c11.2-12.2,26.3-26.1,14.8-30.1c-11.6-4-36.3-1.3-42.5,10.4
 				c-6.2,11.7-14,34.1-9.8,40.6s4.2,6.5,4.2,6.5L827.7,7.8z"/>
-			<path class="st70" d="M891.3,94.3c0,0,9.1,2.7,16.2,3.3c7.2,0.7,15.9,2.2,14.9-2.1c-1-4.3-7.6-11-13.5-10.3
+			<path class="st77" d="M891.3,94.3c0,0,9.1,2.7,16.2,3.3c7.2,0.7,15.9,2.2,14.9-2.1c-1-4.3-7.6-11-13.5-10.3
 				c-5.9,0.7-16.2,3.2-17.8,5.9s-1.6,2.6-1.6,2.6L891.3,94.3z"/>
-			<path class="st71" d="M939,86.2c0,0,16.7-11.8,26.7-22.6c10.1-11,23.8-23.6,13.3-27.2c-10.4-3.6-32.8-1.1-38.4,9.4
+			<path class="st78" d="M939,86.2c0,0,16.7-11.8,26.7-22.6c10.1-11,23.8-23.6,13.3-27.2c-10.4-3.6-32.8-1.1-38.4,9.4
 				s-12.6,30.8-8.8,36.7c3.8,5.9,3.8,5.9,3.8,5.9L939,86.2z"/>
-			<path class="st71" d="M766.3,31.2c0,0,16.9,4.6,28,10.5c11.3,5.9,25.9,12.1,18.6,18c-7.4,5.9-26,10.3-33.6,3.5s-19-21.2-17.7-27
+			<path class="st78" d="M766.3,31.2c0,0,16.9,4.6,28,10.5c11.3,5.9,25.9,12.1,18.6,18c-7.4,5.9-26,10.3-33.6,3.5s-19-21.2-17.7-27
 				c1.4-5.8,1.4-5.8,1.4-5.8L766.3,31.2z"/>
-			<path class="st72" d="M979.1,112c0,0,17.4-1.4,29.4-5c12.2-3.7,27.7-7,21.6-14.2s-23.6-15.1-32.3-9.8
+			<path class="st79" d="M979.1,112c0,0,17.4-1.4,29.4-5c12.2-3.7,27.7-7,21.6-14.2s-23.6-15.1-32.3-9.8
 				c-8.7,5.3-22.7,17.2-22.5,23.1c0.3,6,0.3,6,0.3,6L979.1,112z"/>
-			<path class="st72" d="M850,112.6c0,0,9.6-11.7,14.5-21.4c5-9.8,12.2-21.5,4.1-22c-8.2-0.5-23.6,5.7-25.5,14.4
+			<path class="st79" d="M850,112.6c0,0,9.6-11.7,14.5-21.4c5-9.8,12.2-21.5,4.1-22c-8.2-0.5-23.6,5.7-25.5,14.4
 				c-1.9,8.6-2.9,24.5,1,27.9s3.9,3.4,3.9,3.4L850,112.6z"/>
-			<path class="st72" d="M683.5,41.8c0,0,19.6,4.7,32.7,11.1c13.3,6.4,30.4,13,22.1,20.2c-8.3,7.1-29.7,12.9-38.7,5.2
+			<path class="st79" d="M683.5,41.8c0,0,19.6,4.7,32.7,11.1c13.3,6.4,30.4,13,22.1,20.2c-8.3,7.1-29.7,12.9-38.7,5.2
 				s-22.8-23.7-21.4-30.5c1.4-6.8,1.4-6.8,1.4-6.8L683.5,41.8z"/>
 		</g>
 		<g>
 			<g>
-				<path class="st69" d="M975.2,129.9c0,0,27.8,35.4,80.7,89.5c20.9,21.4,44.3,33.2,56,41.1c-19.9-1.8-34.7-3.3-37.5-3.7
+				<path class="st76" d="M975.2,129.9c0,0,27.8,35.4,80.7,89.5c20.9,21.4,44.3,33.2,56,41.1c-19.9-1.8-34.7-3.3-37.5-3.7
 					c-9.5-1.6,34.4,17.5,34.4,17.5s52.3-0.1,132.6,3c55.7,2.1,93.2-4.4,103.6-10.4c4.6-2.6,6.3-4.6,6.3-4.6s17-18.6-9-2
 					c-26,16.6-71.3,11.6-90.5,11.4c-12.7-0.2-82.3-6-130.6-10.3c-20.3-10.5-37.5-28.6-48.3-39.3c-12.8-12.6-112.1-114.8-119.3-120.2
 					C947,97,975.2,129.9,975.2,129.9z"/>
-				<path class="st69" d="M1060.1,171.1c8.5,17.8,19.7,53,22.2,58.4c2.5,5.4,8.1,12.7,8.1,12.7s-26.2-76.6-31.5-82.7
+				<path class="st76" d="M1060.1,171.1c8.5,17.8,19.7,53,22.2,58.4c2.5,5.4,8.1,12.7,8.1,12.7s-26.2-76.6-31.5-82.7
 					S1051.6,153.3,1060.1,171.1z"/>
 			</g>
-			<path class="st70" d="M1218.2,276.5c0,0-17.3,6.9-28.4,14.4c-11.3,7.6-26.1,15.9-17.6,21.3c8.5,5.4,28.8,7.9,36-0.2
+			<path class="st77" d="M1218.2,276.5c0,0-17.3,6.9-28.4,14.4c-11.3,7.6-26.1,15.9-17.6,21.3c8.5,5.4,28.8,7.9,36-0.2
 				c7.2-8.2,17.7-24.7,15.6-30.7c-2.1-6-2.1-6-2.1-6L1218.2,276.5z"/>
-			<path class="st70" d="M1102.8,272.5c0,0-21,8.4-34.5,17.4c-13.7,9.2-31.7,19.3-21.3,25.9c10.3,6.6,35,9.6,43.7-0.3
+			<path class="st77" d="M1102.8,272.5c0,0-21,8.4-34.5,17.4c-13.7,9.2-31.7,19.3-21.3,25.9c10.3,6.6,35,9.6,43.7-0.3
 				s21.5-30,18.9-37.3c-2.6-7.3-2.6-7.3-2.6-7.3L1102.8,272.5z"/>
-			<path class="st70" d="M1061,173.6c0,0-8.3-4.7-15-7c-6.8-2.3-15-5.8-15-1.4c0,4.4,4.9,12.4,10.7,13.1c5.9,0.7,16.6,0.6,18.7-1.6
+			<path class="st77" d="M1061,173.6c0,0-8.3-4.7-15-7c-6.8-2.3-15-5.8-15-1.4c0,4.4,4.9,12.4,10.7,13.1c5.9,0.7,16.6,0.6,18.7-1.6
 				c2.1-2.2,2.1-2.2,2.1-2.2L1061,173.6z"/>
-			<path class="st71" d="M1008.7,173.4c-20.7,8.2-20.4,8.5-31.2,15.8c-12.4,8.3-28.6,17.4-19.3,23.4c9.3,5.9,31.6,8.7,39.5-0.3
+			<path class="st78" d="M1008.7,173.4c-20.7,8.2-20.4,8.5-31.2,15.8c-12.4,8.3-28.6,17.4-19.3,23.4c9.3,5.9,31.6,8.7,39.5-0.3
 				c7.9-9,19.5-27.1,17.1-33.6c-2.3-6.6-2.3-6.6-2.3-6.6L1008.7,173.4z"/>
-			<path class="st71" d="M1167.9,263.9c0,0-15.3-8.4-24.8-16.7c-9.6-8.4-22.4-17.8-13.9-21.8c8.5-4.1,27.7-4,33.5,4.4
+			<path class="st78" d="M1167.9,263.9c0,0-15.3-8.4-24.8-16.7c-9.6-8.4-22.4-17.8-13.9-21.8c8.5-4.1,27.7-4,33.5,4.4
 				c5.8,8.4,13.6,25,10.9,30.3c-2.7,5.3-2.7,5.3-2.7,5.3L1167.9,263.9z"/>
-			<path class="st72" d="M979.6,135.9c0,0-17.3-2.7-29.8-2c-12.7,0.8-28.6,0.4-24.3,8.8c4.3,8.4,19.5,20.2,29.2,17
+			<path class="st79" d="M979.6,135.9c0,0-17.3-2.7-29.8-2c-12.7,0.8-28.6,0.4-24.3,8.8c4.3,8.4,19.5,20.2,29.2,17
 				s26.1-11.4,27.2-17.3s1.1-5.9,1.1-5.9L979.6,135.9z"/>
-			<path class="st72" d="M1105.4,165.3c0,0-12,9.2-19.1,17.5c-7.2,8.4-16.9,18.1-9.1,20.5c7.8,2.4,24.3-0.1,28.1-8.1
+			<path class="st79" d="M1105.4,165.3c0,0-12,9.2-19.1,17.5c-7.2,8.4-16.9,18.1-9.1,20.5c7.8,2.4,24.3-0.1,28.1-8.1
 				c3.8-8,8.5-23.2,5.5-27.4c-3-4.2-3-4.2-3-4.2L1105.4,165.3z"/>
-			<path class="st72" d="M1250.9,272.9c0,0-18-9.2-29.2-18.3c-11.4-9.3-26.5-19.7-16.8-24.7c9.7-5,31.9-5.7,38.8,3.9
+			<path class="st79" d="M1250.9,272.9c0,0-18-9.2-29.2-18.3c-11.4-9.3-26.5-19.7-16.8-24.7c9.7-5,31.9-5.7,38.8,3.9
 				c7,9.5,16.7,28.4,13.7,34.7c-2.9,6.3-2.9,6.3-2.9,6.3L1250.9,272.9z"/>
 		</g>
 	</g>
@@ -6527,83 +6602,83 @@
 <g id="fact">
 	<g id="fact1_1_">
 		<g id="back">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact1" transform="matrix(1 0 0 1 751.3104 456.0341)"><tspan x="0" y="0" class="st75 st76">1.</tspan><tspan x="25.2" y="0" class="st75 st76 st77">	</tspan><tspan x="36" y="0" class="st75 st76">The first Thanksgiving day</tspan><tspan x="0" y="42" class="st75 st76"> was held in the autumn </tspan><tspan x="0" y="84" class="st75 st76">of 1621.</tspan></text>
+		<text id="fact1" transform="matrix(1 0 0 1 751.3104 456.0341)"><tspan x="0" y="0" class="st82 st83">1.</tspan><tspan x="25.2" y="0" class="st82 st83 st84">	</tspan><tspan x="36" y="0" class="st82 st83">The first Thanksgiving day</tspan><tspan x="0" y="42" class="st82 st83"> was held in the autumn </tspan><tspan x="0" y="84" class="st82 st83">of 1621.</tspan></text>
 	</g>
 	<g id="fact2_1_">
 		<g id="back_1_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact2" transform="matrix(1 0 0 1 749.6591 456.0341)"><tspan x="0" y="0" class="st75 st76">2.</tspan><tspan x="25.2" y="0" class="st75 st76 st77">	</tspan><tspan x="36" y="0" class="st75 st76">In 1863 Thanksgiving day </tspan><tspan x="0" y="42" class="st75 st76">was became a national </tspan><tspan x="0" y="84" class="st75 st76">holiday by President Lincoln.</tspan></text>
+		<text id="fact2" transform="matrix(1 0 0 1 749.6591 456.0341)"><tspan x="0" y="0" class="st82 st83">2.</tspan><tspan x="25.2" y="0" class="st82 st83 st84">	</tspan><tspan x="36" y="0" class="st82 st83">In 1863 Thanksgiving day </tspan><tspan x="0" y="42" class="st82 st83">was became a national </tspan><tspan x="0" y="84" class="st82 st83">holiday by President Lincoln.</tspan></text>
 	</g>
 	<g id="fact3_1_">
 		<g id="back_3_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact3" transform="matrix(1 0 0 1 779.1981 456.0341)"><tspan x="0" y="0" class="st75 st76">3.</tspan><tspan x="25.2" y="0" class="st75 st76 st77">	</tspan><tspan x="36" y="0" class="st75 st76"> Thanksgiving day is </tspan><tspan x="0" y="42" class="st75 st76">November 4th Thursday </tspan><tspan x="0" y="84" class="st75 st76">in US.</tspan></text>
+		<text id="fact3" transform="matrix(1 0 0 1 779.1981 456.0341)"><tspan x="0" y="0" class="st82 st83">3.</tspan><tspan x="25.2" y="0" class="st82 st83 st84">	</tspan><tspan x="36" y="0" class="st82 st83"> Thanksgiving day is </tspan><tspan x="0" y="42" class="st82 st83">November 4th Thursday </tspan><tspan x="0" y="84" class="st82 st83">in US.</tspan></text>
 	</g>
 	<g id="fact4_1_">
 		<g id="back_4_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact4" transform="matrix(1 0 0 1 793.4152 426.6728)"><tspan x="0" y="0" class="st75 st78">4.</tspan><tspan x="20.9" y="0" class="st75 st78 st79">	</tspan><tspan x="36" y="0" class="st75 st78">The origin was to thank </tspan><tspan x="0" y="34.8" class="st75 st78">God for harvest, to invite </tspan><tspan x="0" y="69.6" class="st75 st78">Native American who gave </tspan><tspan x="0" y="104.4" class="st75 st78">wisdom beyond winter </tspan><tspan x="0" y="139.2" class="st75 st78">and to hold feasts.</tspan></text>
+		<text id="fact4" transform="matrix(1 0 0 1 793.4152 426.6728)"><tspan x="0" y="0" class="st82 st85">4.</tspan><tspan x="20.9" y="0" class="st82 st85 st86">	</tspan><tspan x="36" y="0" class="st82 st85">The origin was to thank </tspan><tspan x="0" y="34.8" class="st82 st85">God for harvest, to invite </tspan><tspan x="0" y="69.6" class="st82 st85">Native American who gave </tspan><tspan x="0" y="104.4" class="st82 st85">wisdom beyond winter </tspan><tspan x="0" y="139.2" class="st82 st85">and to hold feasts.</tspan></text>
 	</g>
 	<g id="fact5_1_">
 		<g id="back_5_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact5" transform="matrix(1 0 0 1 794.4296 477.0341)"><tspan x="0" y="0" class="st75 st76">5.</tspan><tspan x="25.2" y="0" class="st75 st76 st77">	</tspan><tspan x="36" y="0" class="st75 st76">Turkey can be eaten</tspan><tspan x="0" y="42" class="st75 st76"> at Thanksgiving.</tspan></text>
+		<text id="fact5" transform="matrix(1 0 0 1 794.4296 477.0341)"><tspan x="0" y="0" class="st82 st83">5.</tspan><tspan x="25.2" y="0" class="st82 st83 st84">	</tspan><tspan x="36" y="0" class="st82 st83">Turkey can be eaten</tspan><tspan x="0" y="42" class="st82 st83"> at Thanksgiving.</tspan></text>
 	</g>
 	<g id="fact6_1_">
 		<g id="back_6_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact6" transform="matrix(1 0 0 1 754.9458 424.5668)"><tspan x="0" y="0" class="st75 st80">6.</tspan><tspan x="21.6" y="0" class="st75 st80 st79">	</tspan><tspan x="36" y="0" class="st75 st80">Bread Stuffing, Pumpkin Pies,</tspan><tspan x="0" y="36" class="st75 st80">vegetable dips etc are also </tspan><tspan x="0" y="72" class="st75 st80">meals often made by Americans </tspan><tspan x="0" y="108" class="st75 st80">at Thanksgiving, besides turkey, </tspan><tspan x="0" y="144" class="st75 st80">baked boiled bread in butter.</tspan></text>
+		<text id="fact6" transform="matrix(1 0 0 1 754.9458 424.5668)"><tspan x="0" y="0" class="st82 st87">6.</tspan><tspan x="21.6" y="0" class="st82 st87 st86">	</tspan><tspan x="36" y="0" class="st82 st87">Bread Stuffing, Pumpkin Pies,</tspan><tspan x="0" y="36" class="st82 st87">vegetable dips etc are also </tspan><tspan x="0" y="72" class="st82 st87">meals often made by Americans </tspan><tspan x="0" y="108" class="st82 st87">at Thanksgiving, besides turkey, </tspan><tspan x="0" y="144" class="st82 st87">baked boiled bread in butter.</tspan></text>
 	</g>
 	<g id="fact7_1_">
 		<g id="back_7_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact7" transform="matrix(1 0 0 1 758.486 424.5667)"><tspan x="0" y="0" class="st75 st80">7.</tspan><tspan x="21.6" y="0" class="st75 st80 st79">	</tspan><tspan x="36" y="0" class="st75 st80">Current Thanksgiving Day, </tspan><tspan x="0" y="36" class="st75 st80">family and friends gathered </tspan><tspan x="0" y="72" class="st75 st80">to eat a lot of tasty food, </tspan><tspan x="0" y="108" class="st75 st80">watch American Football on TV, </tspan><tspan x="0" y="144" class="st75 st80">enjoy shopping.</tspan></text>
+		<text id="fact7" transform="matrix(1 0 0 1 758.486 424.5667)"><tspan x="0" y="0" class="st82 st87">7.</tspan><tspan x="21.6" y="0" class="st82 st87 st86">	</tspan><tspan x="36" y="0" class="st82 st87">Current Thanksgiving Day, </tspan><tspan x="0" y="36" class="st82 st87">family and friends gathered </tspan><tspan x="0" y="72" class="st82 st87">to eat a lot of tasty food, </tspan><tspan x="0" y="108" class="st82 st87">watch American Football on TV, </tspan><tspan x="0" y="144" class="st82 st87">enjoy shopping.</tspan></text>
 	</g>
 	<g id="fact8_1_">
 		<g id="back_8_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact8" transform="matrix(1 0 0 1 733.2424 424.5666)"><tspan x="0" y="0" class="st75 st80">8.</tspan><tspan x="21.6" y="0" class="st75 st80 st79">	</tspan><tspan x="36" y="0" class="st75 st80">A ceremony at the White House </tspan><tspan x="0" y="36" class="st75 st80">will be held every year that </tspan><tspan x="0" y="72" class="st75 st80">the president gives an amnesty </tspan><tspan x="0" y="108" class="st75 st80">to two turkeys that should be eaten </tspan><tspan x="0" y="144" class="st75 st80">by Thanksgiving.</tspan></text>
+		<text id="fact8" transform="matrix(1 0 0 1 733.2424 424.5666)"><tspan x="0" y="0" class="st82 st87">8.</tspan><tspan x="21.6" y="0" class="st82 st87 st86">	</tspan><tspan x="36" y="0" class="st82 st87">A ceremony at the White House </tspan><tspan x="0" y="36" class="st82 st87">will be held every year that </tspan><tspan x="0" y="72" class="st82 st87">the president gives an amnesty </tspan><tspan x="0" y="108" class="st82 st87">to two turkeys that should be eaten </tspan><tspan x="0" y="144" class="st82 st87">by Thanksgiving.</tspan></text>
 	</g>
 	<g id="fact9_1_">
 		<g id="back_9_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact9" transform="matrix(1 0 0 1 747.6108 456.0339)"><tspan x="0" y="0" class="st75 st76">9.</tspan><tspan x="25.2" y="0" class="st75 st76 st77">	</tspan><tspan x="36" y="0" class="st75 st76">Burning a turkey, </tspan><tspan x="0" y="42" class="st75 st76">the Thanksgiving main dish,  </tspan><tspan x="0" y="84" class="st75 st76">is also a job for men.</tspan></text>
+		<text id="fact9" transform="matrix(1 0 0 1 747.6108 456.0339)"><tspan x="0" y="0" class="st82 st83">9.</tspan><tspan x="25.2" y="0" class="st82 st83 st84">	</tspan><tspan x="36" y="0" class="st82 st83">Burning a turkey, </tspan><tspan x="0" y="42" class="st82 st83">the Thanksgiving main dish,  </tspan><tspan x="0" y="84" class="st82 st83">is also a job for men.</tspan></text>
 	</g>
 	<g id="fact10_1_">
 		<g id="back_10_">
-			<rect x="712.1" y="362.8" class="st73" width="492" height="250"/>
+			<rect x="712.1" y="362.8" class="st80" width="492" height="250"/>
 			
-				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st74" width="226" height="468"/>
+				<rect x="845.1" y="253.8" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1445.8945 -470.3718)" class="st81" width="226" height="468"/>
 		</g>
-		<text id="fact10" transform="matrix(1 0 0 1 769.4159 477.0341)"><tspan x="0" y="0" class="st75 st76">10.</tspan><tspan x="43.2" y="0" class="st75 st76 st81">	</tspan><tspan x="72" y="0" class="st75 st76">Thanksgiving is </tspan><tspan x="0" y="42" class="st75 st76">the reason for TV dinners. </tspan></text>
+		<text id="fact10" transform="matrix(1 0 0 1 769.4159 477.0341)"><tspan x="0" y="0" class="st82 st83">10.</tspan><tspan x="43.2" y="0" class="st82 st83 st88">	</tspan><tspan x="72" y="0" class="st82 st83">Thanksgiving is </tspan><tspan x="0" y="42" class="st82 st83">the reason for TV dinners. </tspan></text>
 	</g>
 </g>
 </svg>
